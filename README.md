@@ -55,7 +55,7 @@ let dev = Developer {
 ### ◣ проекты
 
 - **[CloudGram Desktop](https://github.com/MagicFakeDS/cloudgram-desktop)** — нативный мессенджер-клиент на C++/Qt + Microsoft Edge WebView2: E2E-секретные чаты, защита от съёмки экрана, порт сетевого протокола на C++.
-- **[Overkill](https://github.com/MagicFakeDS/overkill)** — оружейный мод для Minecraft (Fabric, Java): огнестрел с магазинами и калибрами, броня, взрывы и кастомные FX. Всё на CC0.
+- **[Overkill](https://github.com/MagicFakeDS/overkill)** — мод-песочница разрушения для Minecraft (Fabric, Java): пульт вызывает ядерные удары, метеориты и спутники, управление гравитацией и деформация мира, взрывы и кинематографичные FX. Всё на CC0.
 - **[MagicTool](https://github.com/MagicFakeDS/MagicTool)** — утилиты для подготовки и обслуживания Windows-ПК (C++).
 
 ### ◣ статистика
