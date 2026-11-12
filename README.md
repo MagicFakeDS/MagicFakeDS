@@ -1,31 +1,34 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:450000,50:A80E1E,100:FF1E1E&height=210&section=header&text=MagicFakeDS&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Native%20clients%20%E2%80%A2%20Windows%20tooling%20%E2%80%A2%20CloudGram&descSize=18&descAlignY=58&descColor=ffd5d5&animation=fadeIn" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:450000,50:A80E1E,100:FF1E1E&height=210&section=header&text=MagicFakeDS&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%26%20Native%20Developer&descSize=20&descAlignY=58&descColor=ffd5d5&animation=fadeIn" width="100%" alt="" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2600&pause=700&color=FF1E1E&center=true&vCenter=true&width=760&height=55&lines=Native+clients+%26+Windows+tooling;Node.js+%7C+TypeScript+%7C+React+%7C+Rust+%7C+C%2B%2B;server-authoritative+%E2%80%A2+%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%B9+%D0%B2+%D1%80%D0%B5%D0%BF%D0%BE+%E2%80%94+%D0%BD%D0%BE%D0%BB%D1%8C" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2600&pause=700&color=FF1E1E&center=true&vCenter=true&width=760&height=55&lines=Full-Stack+%26+Native+Developer;Node.js+%7C+TypeScript+%7C+React;Rust+%7C+C%2B%2B+%7C+Qt+%7C+WinAPI;clean%2C+fast%2C+maintainable" alt="typing" />
 
 <br/>
 
 <img src="./assets/intro.gif" width="300" alt="" />
 
-<br/><br/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1E1E,50:7a0a12,100:140000&height=150&section=header&text=Full-Stack%20%E2%80%A2%20Native%20%E2%80%A2%20Web&fontSize=30&fontColor=ffe0e0&fontAlignY=46&animation=twinkling" width="100%" alt="" />
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=MagicFakeDS&label=PROFILE%20VIEWS&color=FF1E1E&style=for-the-badge" alt="views" />
 <img src="https://img.shields.io/github/followers/MagicFakeDS?label=FOLLOWERS&style=for-the-badge&color=C01212&logo=github&logoColor=white" alt="followers" />
 
 </div>
 
----
-
 ### ◣ whoami
 
 ```rust
 let dev = Developer {
     name:     "MagicFakeDS",
-    focus:    ["нативные клиенты", "Windows-тулинг", "мессенджеры / крипто"],
+    role:     "Full-Stack & Native",
+    focus:    ["веб-приложения", "нативные клиенты", "Windows-тулинг"],
     stack:    ["Node.js", "TypeScript", "React", "Python", "Rust", "C++", "MySQL"],
     projects: ["CloudGram Desktop", "MagicTool"],
-    rule:     "server-authoritative, ключей в репо — ноль",
+    rule:     "clean code • server-authoritative",
 };
 ```
 
@@ -43,7 +46,7 @@ let dev = Developer {
 
 ### ◣ проекты
 
-- **[CloudGram Desktop](https://github.com/MagicFakeDS/cloudgram-desktop)** — нативный клиент мессенджера CloudGram (C++/Qt + Microsoft Edge WebView2). Порт протокола CeP, защита секретных чатов от съёмки экрана. Исходники открыты для просмотра, ключи — свои.
+- **[CloudGram Desktop](https://github.com/MagicFakeDS/cloudgram-desktop)** — нативный мессенджер-клиент на C++/Qt + Microsoft Edge WebView2: E2E-секретные чаты, защита от съёмки экрана, порт сетевого протокола на C++.
 - **[MagicTool](https://github.com/MagicFakeDS/MagicTool)** — утилиты для подготовки и обслуживания Windows-ПК (C++).
 
 ### ◣ статистика
@@ -54,4 +57,4 @@ let dev = Developer {
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1E1E,50:A80E1E,100:450000&height=120&section=footer&text=cloudgram.ru&fontSize=24&fontColor=ffffff&fontAlignY=72&animation=twinkling" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1E1E,50:A80E1E,100:450000&height=120&section=footer&animation=twinkling" width="100%" alt="" />
