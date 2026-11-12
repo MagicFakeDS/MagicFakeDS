@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:450000,50:A80E1E,100:FF1E1E&height=220&section=header&text=MagicFakeDS&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20and%20Native%20Developer&descSize=20&descAlignY=60&descColor=ffd5d5&animation=twinkling" width="100%" alt="" />
+<img src="./assets/banner.jpg" width="100%" alt="MagicFakeDS" />
 
 <div align="center">
 
