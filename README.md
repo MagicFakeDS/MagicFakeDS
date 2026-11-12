@@ -1,4 +1,4 @@
-<img src="./assets/hero.svg" width="100%" alt="MagicFakeDS — Full-Stack • Native Developer" />
+<img src="./assets/hero2.svg" width="100%" alt="MagicFakeDS — Full-Stack • Native Developer" />
 
 <div align="center">
 
