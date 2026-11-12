@@ -14,6 +14,9 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/EXPERIENCE-6%2B%20YEARS-FF1E1E?style=for-the-badge" alt="experience" />
+<img src="https://img.shields.io/badge/CODING%20SINCE-AGE%2012-8B0000?style=for-the-badge" alt="since" />
+
 <img src="https://komarev.com/ghpvc/?username=MagicFakeDS&label=PROFILE%20VIEWS&color=FF1E1E&style=for-the-badge" alt="views" />
 <img src="https://img.shields.io/github/followers/MagicFakeDS?label=FOLLOWERS&style=for-the-badge&color=C01212&logo=github&logoColor=white" alt="followers" />
 
@@ -23,12 +26,13 @@
 
 ```rust
 let dev = Developer {
-    name:     "MagicFakeDS",
-    role:     "Full-Stack & Native",
-    focus:    ["веб-приложения", "нативные клиенты", "Windows-тулинг"],
-    stack:    ["Node.js", "TypeScript", "React", "Python", "Rust", "C++", "MySQL"],
-    projects: ["CloudGram Desktop", "MagicTool"],
-    rule:     "clean code • server-authoritative",
+    name:       "MagicFakeDS",
+    role:       "Full-Stack & Native",
+    experience: "6+ лет · кодит с 12 лет",
+    focus:      ["веб-приложения", "нативные клиенты", "Windows-тулинг"],
+    stack:      ["Node.js", "TypeScript", "React", "Python", "Rust", "C++", "MySQL"],
+    projects:   ["CloudGram Desktop", "MagicTool"],
+    rule:       "clean code • server-authoritative",
 };
 ```
 
