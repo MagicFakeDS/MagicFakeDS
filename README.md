@@ -25,7 +25,7 @@
 ### ◣ whoami
 
 <div align="center">
-<img src="./assets/whoami.svg" width="820" alt="MagicFakeDS" />
+<img src="./assets/fetch.svg" width="840" alt="MagicFakeDS" />
 </div>
 
 ### ◣ stack
