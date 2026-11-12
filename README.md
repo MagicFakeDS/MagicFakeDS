@@ -24,17 +24,9 @@
 
 ### ◣ whoami
 
-```rust
-let dev = Developer {
-    name:       "MagicFakeDS",
-    role:       "Full-Stack & Native",
-    experience: "6+ лет · кодит с 12 лет",
-    focus:      ["веб-приложения", "нативные клиенты", "Windows-тулинг", "GLua"],
-    stack:      ["Node.js", "TypeScript", "React", "Python", "Rust", "C++", "MySQL", "PostgreSQL", "Lua", "Assembly"],
-    projects:   ["CloudGram Desktop", "MagicTool"],
-    rule:       "clean code • server-authoritative",
-};
-```
+<div align="center">
+<img src="./assets/whoami.svg" width="820" alt="MagicFakeDS" />
+</div>
 
 ### ◣ stack
 
