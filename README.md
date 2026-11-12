@@ -25,11 +25,18 @@
 <img src="./assets/h-whoami.svg" width="100%" alt="whoami" />
 
 <div align="center">
+<table>
+<tr>
+<td width="260" align="center"><img src="./assets/skull3d.gif" width="230" alt="MagicFakeDS" /></td>
+<td>
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/fetch3-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/fetch3-dark.svg" />
-  <img src="./assets/fetch3-dark.svg" width="840" alt="MagicFakeDS" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/info-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/info-dark.svg" />
+  <img src="./assets/info-dark.svg" width="560" alt="MagicFakeDS — neofetch" />
 </picture>
+</td>
+</tr>
+</table>
 </div>
 
 <img src="./assets/rule.svg" width="100%" alt="" />
