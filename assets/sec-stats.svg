@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="76" viewBox="0 0 880 76" font-family="'JetBrains Mono','Cascadia Code','Fira Code','DejaVu Sans Mono',Consolas,monospace"><defs>
+  <linearGradient id="tg" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#FF8A8A"/>
+    <stop offset="0.5" stop-color="#FF1E1E"/>
+    <stop offset="1" stop-color="#A80E1E"/>
+  </linearGradient>
+  <linearGradient id="ln" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#FF1E1E" stop-opacity="0"/>
+    <stop offset="0.5" stop-color="#FF1E1E" stop-opacity="0.9"/>
+    <stop offset="1" stop-color="#FF1E1E" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+    <feGaussianBlur stdDeviation="1.6" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="softglow" x="-80%" y="-80%" width="260%" height="260%">
+    <feGaussianBlur stdDeviation="2.1" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs><rect x="60" y="37.4" width="760" height="1.2" fill="url(#ln)" opacity="0.5"/><line x1="120" y1="38.0" x2="324.0" y2="38.0" stroke="url(#ln)" stroke-width="2"/><line x1="556.0" y1="38.0" x2="760" y2="38.0" stroke="url(#ln)" stroke-width="2"/><g transform="translate(118 38.0) scale(-1.0 1.0)" fill="none" stroke="#FF1E1E" stroke-width="2" stroke-linecap="round" filter="url(#glow)"><path d="M0,0 H26 q8,0 8,-8 V-14 q0,-8 8,-8 H78 q10,0 14,-9 q6,-13 18,-13 q12,0 12,11 q0,9 -9,9 q-7,0 -5,-7"/><path d="M20,0 q18,16 44,13 q20,-2 30,-14" stroke-width="1.6" opacity="0.85"/><circle cx="26" cy="0" r="2.4" fill="#FF1E1E" stroke="none"/><circle cx="62" cy="-22" r="2.4" fill="#FF1E1E" stroke="none"/><circle cx="112" cy="-24" r="2.0" fill="#FF1E1E" stroke="none"/></g><g transform="translate(762 38.0) scale(1.0 1.0)" fill="none" stroke="#FF1E1E" stroke-width="2" stroke-linecap="round" filter="url(#glow)"><path d="M0,0 H26 q8,0 8,-8 V-14 q0,-8 8,-8 H78 q10,0 14,-9 q6,-13 18,-13 q12,0 12,11 q0,9 -9,9 q-7,0 -5,-7"/><path d="M20,0 q18,16 44,13 q20,-2 30,-14" stroke-width="1.6" opacity="0.85"/><circle cx="26" cy="0" r="2.4" fill="#FF1E1E" stroke="none"/><circle cx="62" cy="-22" r="2.4" fill="#FF1E1E" stroke="none"/><circle cx="112" cy="-24" r="2.0" fill="#FF1E1E" stroke="none"/></g><g transform="translate(324.0 38.0) rotate(45)" filter="url(#glow)"><rect x="-4" y="-4" width="8" height="8" rx="1.2" fill="#FF3030" stroke="#FF8A8A" stroke-width="1"/></g><g transform="translate(556.0 38.0) rotate(45)" filter="url(#glow)"><rect x="-4" y="-4" width="8" height="8" rx="1.2" fill="#FF3030" stroke="#FF8A8A" stroke-width="1"/></g><text x="440.0" y="48.2" text-anchor="middle" font-size="30" font-weight="800" fill="url(#tg)" filter="url(#softglow)" letter-spacing="1.5">статистика</text></svg>

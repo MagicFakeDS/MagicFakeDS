@@ -10,7 +10,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1E1E,50:7a0a12,100:140000&height=150&section=header&text=Full-Stack%20%E2%80%A2%20Native%20%E2%80%A2%20Web&fontSize=30&fontColor=ffe0e0&fontAlignY=46&animation=twinkling" width="100%" alt="" />
+<img src="./assets/subbanner.svg" width="100%" alt="Full-Stack • Native • Web" />
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 
 </div>
 
-### ◣ whoami
+<img src="./assets/sec-whoami.svg" width="100%" alt="whoami" />
 
 <div align="center">
 <picture>
@@ -32,7 +32,11 @@
 </picture>
 </div>
 
-### ◣ stack
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<img src="./assets/sec-stack.svg" width="100%" alt="stack" />
+
+<div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-C1121F?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-B10E1E?style=for-the-badge&logo=typescript&logoColor=white)
@@ -48,14 +52,20 @@
 ![GLua](https://img.shields.io/badge/GLua-A80E1E?style=for-the-badge&logo=lua&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E0A0A?style=for-the-badge&logo=gnometerminal&logoColor=white)
 
-### ◣ проекты
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<img src="./assets/sec-projects.svg" width="100%" alt="проекты" />
 
 - **[CloudGram Desktop](https://github.com/MagicFakeDS/cloudgram-desktop)** — нативный мессенджер-клиент на C++/Qt + Microsoft Edge WebView2: E2E-секретные чаты, защита от съёмки экрана, порт сетевого протокола на C++.
 - **[AvitoPilot](https://github.com/MagicFakeDS/avito-pilot)** — ИИ-помощник продавца на Авито: Telegram-бот и сайт на Claude анализируют выдачу (цены, конкуренты, продвижение), пишут объявления и подбирают цену. Node.js, grammy, Playwright.
 - **[Overkill](https://github.com/MagicFakeDS/overkill)** — мод-песочница разрушения для Minecraft (Fabric, Java): пульт вызывает ядерные удары, метеориты и спутники, управление гравитацией и деформация мира, взрывы и кинематографичные FX. Всё на CC0.
 - **[MagicTool](https://github.com/MagicFakeDS/MagicTool)** — утилиты для подготовки и обслуживания Windows-ПК (C++).
 
-### ◣ статистика
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<img src="./assets/sec-stats.svg" width="100%" alt="статистика" />
 
 <div align="center">
 
@@ -67,4 +77,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1E1E,50:A80E1E,100:450000&height=120&section=footer&animation=twinkling" width="100%" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="" />
