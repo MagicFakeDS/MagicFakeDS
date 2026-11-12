@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2600&pause=700&color=FF1E1E&center=true&vCenter=true&width=760&height=60&lines=MagicFakeDS;Native+clients+%26+Windows+tooling;C%2B%2B+%7C+Qt+%7C+Rust+%7C+WinAPI;CloudGram+Desktop" alt="typing" />
 
-<img src="./assets/banner.gif" width="320" alt="" />
+<img src="./assets/intro.gif" width="320" alt="" />
 
 </div>
 
