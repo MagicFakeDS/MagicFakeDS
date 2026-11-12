@@ -26,9 +26,9 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/fetch-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/fetch-dark.svg" />
-  <img src="./assets/fetch-dark.svg" width="840" alt="MagicFakeDS" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/fetch2-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/fetch2-dark.svg" />
+  <img src="./assets/fetch2-dark.svg" width="840" alt="MagicFakeDS" />
 </picture>
 </div>
 
