@@ -29,9 +29,9 @@
 <tr>
 <td width="300" align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/askull-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/askull-dark.svg" />
-  <img src="./assets/askull-dark.svg" width="250" alt="MagicFakeDS" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/skf-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/skf-dark.svg" />
+  <img src="./assets/skf-dark.svg" width="250" alt="MagicFakeDS" />
 </picture>
 </td>
 <td>
