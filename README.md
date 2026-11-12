@@ -55,6 +55,7 @@ let dev = Developer {
 ### ◣ проекты
 
 - **[CloudGram Desktop](https://github.com/MagicFakeDS/cloudgram-desktop)** — нативный мессенджер-клиент на C++/Qt + Microsoft Edge WebView2: E2E-секретные чаты, защита от съёмки экрана, порт сетевого протокола на C++.
+- **[AvitoPilot](https://github.com/MagicFakeDS/avito-pilot)** — ИИ-помощник продавца на Авито: Telegram-бот и сайт на Claude анализируют выдачу (цены, конкуренты, продвижение), пишут объявления и подбирают цену. Node.js, grammy, Playwright.
 - **[Overkill](https://github.com/MagicFakeDS/overkill)** — мод-песочница разрушения для Minecraft (Fabric, Java): пульт вызывает ядерные удары, метеориты и спутники, управление гравитацией и деформация мира, взрывы и кинематографичные FX. Всё на CC0.
 - **[MagicTool](https://github.com/MagicFakeDS/MagicTool)** — утилиты для подготовки и обслуживания Windows-ПК (C++).
 
