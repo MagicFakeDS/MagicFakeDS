@@ -1,4 +1,4 @@
-<img src="./assets/banner.jpg" width="100%" alt="MagicFakeDS" />
+<img src="./assets/hero.svg" width="100%" alt="MagicFakeDS — Full-Stack • Native Developer" />
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 </div>
 
-<img src="./assets/subbanner.svg" width="100%" alt="Full-Stack • Native • Web" />
+<img src="./assets/tagline.svg" width="100%" alt="Full-Stack • Native • Web" />
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 
 </div>
 
-<img src="./assets/sec-whoami.svg" width="100%" alt="whoami" />
+<img src="./assets/h-whoami.svg" width="100%" alt="whoami" />
 
 <div align="center">
 <picture>
@@ -32,9 +32,9 @@
 </picture>
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/rule.svg" width="100%" alt="" />
 
-<img src="./assets/sec-stack.svg" width="100%" alt="stack" />
+<img src="./assets/h-stack.svg" width="100%" alt="stack" />
 
 <div align="center">
 
@@ -54,18 +54,18 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/rule.svg" width="100%" alt="" />
 
-<img src="./assets/sec-projects.svg" width="100%" alt="проекты" />
+<img src="./assets/h-projects.svg" width="100%" alt="проекты" />
 
 - **[CloudGram Desktop](https://github.com/MagicFakeDS/cloudgram-desktop)** — нативный мессенджер-клиент на C++/Qt + Microsoft Edge WebView2: E2E-секретные чаты, защита от съёмки экрана, порт сетевого протокола на C++.
 - **[AvitoPilot](https://github.com/MagicFakeDS/avito-pilot)** — ИИ-помощник продавца на Авито: Telegram-бот и сайт на Claude анализируют выдачу (цены, конкуренты, продвижение), пишут объявления и подбирают цену. Node.js, grammy, Playwright.
 - **[Overkill](https://github.com/MagicFakeDS/overkill)** — мод-песочница разрушения для Minecraft (Fabric, Java): пульт вызывает ядерные удары, метеориты и спутники, управление гравитацией и деформация мира, взрывы и кинематографичные FX. Всё на CC0.
 - **[MagicTool](https://github.com/MagicFakeDS/MagicTool)** — утилиты для подготовки и обслуживания Windows-ПК (C++).
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/rule.svg" width="100%" alt="" />
 
-<img src="./assets/sec-stats.svg" width="100%" alt="статистика" />
+<img src="./assets/h-stats.svg" width="100%" alt="статистика" />
 
 <div align="center">
 
@@ -77,4 +77,4 @@
 
 </div>
 
-<img src="./assets/footer.svg" width="100%" alt="" />
+<img src="./assets/outro.svg" width="100%" alt="" />
