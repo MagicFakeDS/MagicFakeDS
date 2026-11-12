@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2600&pause=700&color=FF1E1E&center=true&vCenter=true&width=760&height=60&lines=MagicFakeDS;Native+clients+%26+Windows+tooling;C%2B%2B+%7C+Qt+%7C+Rust+%7C+WinAPI;CloudGram+Desktop" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2600&pause=700&color=FF1E1E&center=true&vCenter=true&width=760&height=60&lines=MagicFakeDS;Native+clients+%26+Windows+tooling;Node.js+%7C+TypeScript+%7C+React+%7C+Rust+%7C+C%2B%2B;CloudGram+Desktop" alt="typing" />
 
 <img src="./assets/intro.gif" width="320" alt="" />
 
@@ -14,7 +14,7 @@
 let dev = Developer {
     name:     "MagicFakeDS",
     focus:    ["нативные клиенты", "Windows-тулинг", "мессенджеры / крипто"],
-    stack:    ["C++17", "Qt", "Rust", "WinAPI", "CMake"],
+    stack:    ["Node.js", "TypeScript", "React", "Python", "Rust", "C++", "MySQL"],
     projects: ["CloudGram Desktop", "MagicTool"],
     rule:     "server-authoritative, ключей в репо — ноль",
 };
@@ -22,12 +22,15 @@ let dev = Developer {
 
 ### ◣ stack
 
-![C++](https://img.shields.io/badge/C%2B%2B-17-E01020?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-6-B10E1E?style=for-the-badge&logo=qt&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-core-C01212?style=for-the-badge&logo=rust&logoColor=white)
-![Windows](https://img.shields.io/badge/WinAPI-native-8B0000?style=for-the-badge&logo=windows&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-build-D01020?style=for-the-badge&logo=cmake&logoColor=white)
-![Python](https://img.shields.io/badge/Python-tools-A01020?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-C1121F?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-B10E1E?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-C01212?style=for-the-badge&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-9A0712?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-A01020?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-8B0000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-E01020?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-B81414?style=for-the-badge&logo=qt&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-D01020?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ◣ проекты
 
