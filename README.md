@@ -25,7 +25,11 @@
 ### ◣ whoami
 
 <div align="center">
-<img src="./assets/fetch.svg" width="840" alt="MagicFakeDS" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/fetch-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/fetch-dark.svg" />
+  <img src="./assets/fetch-dark.svg" width="840" alt="MagicFakeDS" />
+</picture>
 </div>
 
 ### ◣ stack
@@ -55,7 +59,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MagicFakeDS&hide_border=true&background=0d1117&ring=FF1E1E&fire=FF1E1E&currStreakLabel=FF1E1E&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=MagicFakeDS&hide_border=true&background=ffffff&ring=C01212&fire=C01212&currStreakLabel=C01212&sideLabels=1f2328&dates=656d76&currStreakNum=1f2328&sideNums=1f2328" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=MagicFakeDS&hide_border=true&background=0d1117&ring=FF1E1E&fire=FF1E1E&currStreakLabel=FF1E1E&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MagicFakeDS&hide_border=true&background=0d1117&ring=FF1E1E&fire=FF1E1E&currStreakLabel=FF1E1E&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
+</picture>
 
 </div>
 
