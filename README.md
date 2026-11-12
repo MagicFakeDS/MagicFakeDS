@@ -29,8 +29,8 @@ let dev = Developer {
     name:       "MagicFakeDS",
     role:       "Full-Stack & Native",
     experience: "6+ лет · кодит с 12 лет",
-    focus:      ["веб-приложения", "нативные клиенты", "Windows-тулинг"],
-    stack:      ["Node.js", "TypeScript", "React", "Python", "Rust", "C++", "MySQL"],
+    focus:      ["веб-приложения", "нативные клиенты", "Windows-тулинг", "GMod / GLua"],
+    stack:      ["Node.js", "TypeScript", "React", "Python", "Rust", "C++", "MySQL", "Lua"],
     projects:   ["CloudGram Desktop", "MagicTool"],
     rule:       "clean code • server-authoritative",
 };
@@ -47,6 +47,8 @@ let dev = Developer {
 ![C++](https://img.shields.io/badge/C%2B%2B-E01020?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-B81414?style=for-the-badge&logo=qt&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-D01020?style=for-the-badge&logo=mysql&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-7A0A12?style=for-the-badge&logo=lua&logoColor=white)
+![GLua](https://img.shields.io/badge/GLua-Garry%27s%20Mod-A80E1E?style=for-the-badge&logo=lua&logoColor=white)
 
 ### ◣ проекты
 
