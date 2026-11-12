@@ -38,9 +38,6 @@ let dev = Developer {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MagicFakeDS&show_icons=true&hide_border=true&title_color=FF1E1E&icon_color=FF1E1E&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagicFakeDS&layout=compact&hide_border=true&title_color=FF1E1E&text_color=c9d1d9&bg_color=0d1117&langs_count=6" alt="langs" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MagicFakeDS&hide_border=true&background=0d1117&ring=FF1E1E&fire=FF1E1E&currStreakLabel=FF1E1E&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
 
 </div>
