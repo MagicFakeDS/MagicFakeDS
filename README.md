@@ -27,7 +27,13 @@
 <div align="center">
 <table>
 <tr>
-<td width="260" align="center"><img src="./assets/skull3d.gif" width="230" alt="MagicFakeDS" /></td>
+<td width="300" align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/askull-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/askull-dark.svg" />
+  <img src="./assets/askull-dark.svg" width="250" alt="MagicFakeDS" />
+</picture>
+</td>
 <td>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/info-light.svg" />
